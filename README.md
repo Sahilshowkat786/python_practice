@@ -1,3 +1,3 @@
-# python_practice :I am upload my practice codes here 
+# python_practice : This repository contains my python learning journey,including concepts,practice programs, and problem-solving exercises;
 <br>
 Author Sahil Showkat
